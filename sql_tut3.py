@@ -110,3 +110,5 @@ for row in cursor.fetchall():
 
 
 conn.close()
+
+print("hello")
